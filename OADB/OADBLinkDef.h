@@ -19,6 +19,8 @@
 #pragma link C++ class AliEPSelectionTask+;
 #pragma link C++ class AliPhysicsSelection+;
 #pragma link C++ class AliPhysicsSelectionTask+;
+#pragma link C++ class AliAnalysisTaskMLPIDResponse+;
+#pragma link C++ class AliAnalysisTaskPreprocessML+;
 #pragma link C++ class AliTriggerAnalysis+;
 #pragma link C++ class AliCollisionNormalization+;
 #pragma link C++ class AliCollisionNormalizationTask+;
