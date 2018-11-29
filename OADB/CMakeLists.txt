@@ -36,7 +36,6 @@ set(SRCS
     AliPhysicsSelection.cxx
     AliPhysicsSelectionTask.cxx
     AliAnalysisTaskMLPIDResponse.cxx
-    AliAnalysisTaskPreprocessML.cxx
     AliTriggerAnalysis.cxx
     AliOADBCentrality.cxx
     AliOADBFillingScheme.cxx
